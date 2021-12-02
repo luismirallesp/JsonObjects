@@ -1,22 +1,22 @@
 {
   "employees": [
     {
-      "fistname": "John",
+      "firstname": "John",
       "age": 30,
       "mail": "johan@gmail.com"
     },
     {
-      "fistname": "Mike",
+      "firstname": "Mike",
       "age": 30,
       "mail": "johan@gmail.com"
     },
     {
-      "fistname": "Peter",
+      "firstname": "Peter",
       "age": 30,
       "mail": "johan@gmail.com"
     },
     {
-      "fistname": "James",
+      "firstname": "James",
       "age": 30,
       "mail": "johan@gmail.com"
     }
